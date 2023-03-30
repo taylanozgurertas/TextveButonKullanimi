@@ -28,7 +28,7 @@ class TutorialOnePage extends StatelessWidget {
   const TutorialOnePage({Key? key}) : super(key: key);
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context) {//
     return const Text(
       "asasdasd",
       //Text widgetının bazı özellikleri var örneğin
